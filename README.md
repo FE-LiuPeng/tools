@@ -1,4 +1,4 @@
 一些小插件小工具
-# turntable
+turntable
 转盘
-# TcNactive
+TcNactive
